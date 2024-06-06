@@ -5,7 +5,7 @@ SalesTracker is a Java program designed to track daily sales for a specified num
 ## Usage
 
 1.Clone the Repository:
-git clone https://github.com/your-username/SalesTracker.git
+git clone https://github.com/AmitKumar-Vaghela/SalesTracker.git
 
 2.Compile the Program:
 javac SalesTracker.java
